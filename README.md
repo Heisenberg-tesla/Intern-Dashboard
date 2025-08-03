@@ -10,9 +10,6 @@ A web-based platform for managing intern portfolios, tracking progress, and moni
 - 🗂️ **Intern Portfolio Management**  
   Maintain and update intern profiles, resumes, and skillsets.
 
-- 📁 **Project Tracking & Documentation**  
-  Track assigned projects, upload reports, and monitor milestones.
-
 - 📈 **Real-time Progress Updates**  
   Visual indicators and percentage-based progress tracking for interns.
 
@@ -56,13 +53,13 @@ git clone https://github.com/Heisenberg-tesla/Intern-Dashboard
 
 
 2. Install backend dependencies:
-```bash
+
 cd backend
 npm install
 ```
 
 3. Install frontend dependencies:
-```bash
+
 cd ../frontend
 npm install
 ```
@@ -70,7 +67,6 @@ npm install
 ### Running the Application
 
 1. In a new terminal, start the Backend:
-2. 
 cd backend
 npm start
 ```
@@ -96,6 +92,7 @@ The application will be available at `http://localhost:3000`
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
 
