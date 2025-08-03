@@ -1,39 +1,59 @@
-# Intern Dashboard
+# 🚀 Intern Dashboard
 
-A web-based platform for managing intern portfolios, projects, and tracking progress.
+A web-based platform for managing intern portfolios, tracking progress, and monitoring performance in real time.
 
-## Features
+## ✨ Features
 
-- User authentication and authorization
-- Portfolio management for interns
-- Project tracking and documentation
-- Real-time progress updates
-- Responsive and modern UI
+- 🔐 **User Authentication & Authorization**  
+  Secure login system to protect intern and admin data.
 
-## Tech Stack
+- 🗂️ **Intern Portfolio Management**  
+  Maintain and update intern profiles, resumes, and skillsets.
 
-### Frontend
-- React.js
-- Modern UI components
-- Tailwind CSS for styling
+- 📁 **Project Tracking & Documentation**  
+  Track assigned projects, upload reports, and monitor milestones.
 
-### Backend
-- Node.js with Express
-- RESTful API architecture
-- Environment variables support
+- 📈 **Real-time Progress Updates**  
+  Visual indicators and percentage-based progress tracking for interns.
 
-## Getting Started
+- 🏆 **Interactive Leaderboard**  
+  Sort and view intern rankings based on:
+  - 💰 Donations (High → Low)
+  - 📊 Progress
+  - 🔤 Name (A → Z)
 
-### Prerequisites
+- 💻 **Responsive & Modern UI**  
+  Clean, mobile-friendly design using Tailwind CSS and modern components.
+
+---
+
+## 🛠 Tech Stack
+
+### 🧩 Frontend
+- ⚛️ React.js
+- 🎨 Tailwind CSS
+- 🧱 Modern UI Components
+
+### 🔧 Backend
+- 🟢 Node.js with Express
+- 🌐 RESTful API
+- 🔐 Environment Variables Support
+
+---
+
+## 🚀 Getting Started
+
+### ✅ Prerequisites
 - Node.js (v14 or higher)
 - npm or yarn
-- Modern web browser
+- Modern web browser (Chrome, Edge, etc.)
 
-### Installation
+### 📦 Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
 ```bash
 git clone https://github.com/Heisenberg-tesla/Intern-Dashboard
+
 
 2. Install backend dependencies:
 ```bash
@@ -76,5 +96,6 @@ The application will be available at `http://localhost:3000`
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
