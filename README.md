@@ -89,8 +89,19 @@ npm start
 <img width="1681" height="726" alt="Screenshot 2025-08-03 112036" src="https://github.com/user-attachments/assets/790e859b-02db-432b-b722-6a9ddd91daf6" />
 <img width="1769" height="861" alt="Screenshot 2025-08-03 112101" src="https://github.com/user-attachments/assets/f3a5dcdf-7440-483b-bc09-ac21a209f8ff" />
 
+## 🎥 Demo Video
+
+[![Watch Demo](https://img.shields.io/badge/Watch%20on%20Loom-Click%20Here-red?logo=loom)](https://www.loom.com/share/YOUR_VIDEO_ID)
+
+## 👥 Contributors
+
+-Ayush Bhardwaj 📧-ayushbhardwaj7061@gmail.com
+-Aayush Sharma 📧-ayushsharma1854@gmail.com
+
+
 
 ## 📄 License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
 
