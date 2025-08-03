@@ -49,14 +49,13 @@ npm install
 
 ### Running the Application
 
-1. Start the backend server:
-```bash
+1. In a new terminal, start the Backend:
+2. 
 cd backend
 npm start
 ```
 
 2. In a new terminal, start the frontend:
-```bash
 cd frontend
 npm start
 ```
@@ -78,4 +77,4 @@ The application will be available at `http://localhost:3000`
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Screenshots 
+
