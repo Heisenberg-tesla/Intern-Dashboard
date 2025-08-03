@@ -91,17 +91,20 @@ npm start
 
 ## 🎥 Demo Video
 
-[![Watch Demo](https://img.shields.io/badge/Watch%20on%20Loom-Click%20Here-red?logo=loom)](https://www.loom.com/share/YOUR_VIDEO_ID)
+[![Watch Demo][(https://img.shields.io/badge/Watch%20on%20Loom-Click%20Here-red?logo=loom)](https://www.loom.com/share/YOUR_VIDEO_ID)](https://www.loom.com/share/5bb861a00bcc4f89916abf0d6c7c3e7f?sid=c8b75e57-4eae-4cbf-bbc8-3f20d7fc7b43)
 
 ## 👥 Contributors
 
 -Ayush Bhardwaj 📧-ayushbhardwaj7061@gmail.com
 -Aayush Sharma 📧-ayushsharma1854@gmail.com
 
+Feel free to reach out with feedback or collaboration ideas!
+
 
 
 ## 📄 License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
 
 
