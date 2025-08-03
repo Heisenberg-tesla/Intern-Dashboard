@@ -2,6 +2,8 @@
 
 A web-based platform for managing intern portfolios, tracking progress, and monitoring performance in real time.
 
+---
+
 ## ✨ Features
 
 - 🔐 **User Authentication & Authorization**  
@@ -47,51 +49,37 @@ A web-based platform for managing intern portfolios, tracking progress, and moni
 
 ### 📦 Installation
 
-1. **Clone the repository:**
+1. **Clone the repository**
 ```bash
 git clone https://github.com/Heisenberg-tesla/Intern-Dashboard
 
-
-2. Install backend dependencies:
+2.Install backend dependencies
 
 cd backend
 npm install
-```
 
-3. Install frontend dependencies:
-
+3.Install frontend dependencies
 cd ../frontend
 npm install
-```
 
-### Running the Application
+▶️ Running the Application
 
-1. In a new terminal, start the Backend:
+1.Start the Backend
 cd backend
 npm start
-```
 
-2. In a new terminal, start the frontend:
+2.Start the Frontend (in a new terminal)
+
 cd frontend
 npm start
-```
 
-The application will be available at `http://localhost:3000`
+ The application will be available at: http://localhost:3000
 
-## Screenshots 
-<img width="1899" height="889" alt="Screenshot 2025-08-03 111912" src="https://github.com/user-attachments/assets/58c5cd09-608a-45b3-8a6c-074d63e664fe" />
-<img width="1796" height="836" alt="Screenshot 2025-08-03 111944" src="https://github.com/user-attachments/assets/6a8dbc01-b858-48e6-83c2-9bfebf88b06c" />
-<img width="1766" height="873" alt="Screenshot 2025-08-03 112011" src="https://github.com/user-attachments/assets/f3c1f5ec-2fba-4dc1-b613-6615f67d6b5c" />
-<img width="1681" height="726" alt="Screenshot 2025-08-03 112036" src="https://github.com/user-attachments/assets/50ba1c6e-9fa8-4ffa-9051-494308c17be4" />
-<img width="1769" height="861" alt="Screenshot 2025-08-03 112101" src="https://github.com/user-attachments/assets/bfbbaeba-1a21-40a6-a325-3d8a4c97c7b1" />
+📸 Screenshots
+<img src="https://github.com/user-attachments/assets/58c5cd09-608a-45b3-8a6c-074d63e664fe" width="100%" alt="Dashboard Screenshot 1" /> <br/><br/> <img src="https://github.com/user-attachments/assets/6a8dbc01-b858-48e6-83c2-9bfebf88b06c" width="100%" alt="Dashboard Screenshot 2" /> <br/><br/> <img src="https://github.com/user-attachments/assets/f3c1f5ec-2fba-4dc1-b613-6615f67d6b5c" width="100%" alt="Dashboard Screenshot 3" /> <br/><br/> <img src="https://github.com/user-attachments/assets/50ba1c6e-9fa8-4ffa-9051-494308c17be4" width="100%" alt="Dashboard Screenshot 4" /> <br/><br/> <img src="https://github.com/user-attachments/assets/bfbbaeba-1a21-40a6-a325-3d8a4c97c7b1" width="100%" alt="Dashboard Screenshot 5" />
 
-
-
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+📄 License
+This project is licensed under the MIT License — see the LICENSE file for details.
 
 
 
