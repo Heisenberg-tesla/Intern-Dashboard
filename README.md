@@ -86,13 +86,11 @@ npm start
 
 <img width="1895" height="883" alt="Screenshot 2025-08-03 111812" src="https://github.com/user-attachments/assets/b45f9720-1a58-4bd3-ba11-34a588e68ad4" />
 <img width="1796" height="836" alt="Screenshot 2025-08-03 111944" src="https://github.com/user-attachments/assets/fa42cc18-4cc7-4f6f-b6d6-1e6b75edfe8b" />
-<img width="1796" height="836" alt="Screenshot 2025-08-03 111944" src="https://github.com/user-attachments/assets/e8273cde-8d6b-4d79-be7d-2dcb51444af8" />
 <img width="1681" height="726" alt="Screenshot 2025-08-03 112036" src="https://github.com/user-attachments/assets/790e859b-02db-432b-b722-6a9ddd91daf6" />
 <img width="1769" height="861" alt="Screenshot 2025-08-03 112101" src="https://github.com/user-attachments/assets/f3a5dcdf-7440-483b-bc09-ac21a209f8ff" />
 
 
 ## 📄 License
-his project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
